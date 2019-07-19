@@ -1,0 +1,9 @@
+.env
+.DS_Store
+venv/
+*.pyc
+staticfiles
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
