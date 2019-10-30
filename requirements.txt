@@ -15,7 +15,7 @@ django-environ==0.4.5
 django-model-utils==3.1.2
 
 # Images
-Pillow==6.0.0
+Pillow==6.2.0
 colorthief==0.2.1
 
 # Rest API
